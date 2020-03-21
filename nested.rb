@@ -60,7 +60,7 @@ def dennis_ritchies_language
       }
     }
 
-language = programmer_hash[:dennis_ritchie][:language].flatten
+programmer_hash[:dennis_ritchie][:language].flatten
 
 end
 
