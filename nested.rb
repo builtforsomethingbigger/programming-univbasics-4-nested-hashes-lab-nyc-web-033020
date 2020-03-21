@@ -88,7 +88,7 @@ def adding_matz
       }
     }
 
-programmer_hash.inject({:yukihiro_matsumoto})
+programmer_hash.merge(:yukihiro_matsumoto)
 
 def changing_alan
   # change what Alan Kay is :known_for to the value of the alans_new_info variable.
