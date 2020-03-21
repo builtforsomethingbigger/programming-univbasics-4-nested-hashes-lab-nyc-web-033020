@@ -116,7 +116,7 @@ def changing_alan
     }
 
 programmer_hash[:alan_kay][0] = "GUI"
-programmer_hash[:alan_kay][0]
+programmer_hash
 end
 
 def adding_to_dennis
